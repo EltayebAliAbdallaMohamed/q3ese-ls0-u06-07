@@ -1,0 +1,851 @@
+
+
+{
+  "title": "Q3eSE_LS0_U06_07_Listening2_ActivitiesA_B_C",
+  "sentences": [
+    {
+      "speaker": "Gina + Tran Sam",
+      "keyWord": "",
+      "definition": "",
+      "english": "Q3eSE_LS0_U06_07_Listening2_ActivitiesA_B_C",
+      "arabic": "Q3eSE_LS0_U06_07_Listening2_ActivitiesA_B_C",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Q3eSE_LS0_U06_07_Listening2_ActivitiesA_B_C.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Gina:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Hi, everyone",
+      "arabic": "مَرحبا بِ الجميع.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Hi, everyone.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Gina:",
+      "keyWord": "",
+      "definition": "",
+      "english": "you’re listening to Health Corner.",
+      "arabic": "أنتم تستمعون إلى زاوية الصحة.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/you’re listening to Health Corner.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Gina:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I’m Gina.",
+      "arabic": "أنا جينا.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I’m Gina.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Gina:",
+      "keyWord": "",
+      "definition": "",
+      "english": "and my guest is nutrition expert Tran Pham.",
+      "arabic": "وضيفي هو خبير التغذية تران فام.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/and my guest is nutrition expert Tran Pham.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+
+     {
+      "speaker": "Gina:",
+      "keyWord": "",
+      "definition": "",
+      "english": "and my guest is nutrition expert.",
+      "arabic": "وضيفي هو خبير تغذية",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/and my guest is nutrition expert.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Gina:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Tran Pham",
+      "arabic": "تران فام",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Tran Pham.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Gina:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Today we’re talking about vitamin supplements.",
+      "arabic": "اليوم سنتحدث عن مكملات الفيتامينات.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Today we’re talking about vitamin supplements.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }, 
+  
+    {
+      "speaker": "Gina:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Thanks for joining us, Tran.",
+      "arabic": "شكراً لانضمامك إلينا.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Thanks for joining us, Tran.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Thanks, Gina.",
+      "arabic": "شكراً، جينا.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Thanks, Gina.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I’m happy to be here",
+      "arabic": "أنا سعيد لأني هنا.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I’m happy to be here.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Gina:",
+      "keyWord": "",
+      "definition": "",
+      "english": "So, Tran",
+      "arabic": "إذن، تران",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/So, Tran.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Gina:",
+      "keyWord": "",
+      "definition": "",
+      "english": "do you really need to take supplements to be healthy.",
+      "arabic": "هل تحتاج فعلاً لتناول المكملات لتكون بصحة جيدة؟",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/do you really need to take supplements to be healthy.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Well",
+      "arabic": "حسنًا، يعتمد ذلك على نظامك الغذائي.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Well.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Well, it depends on your diet.",
+      "arabic": "حسنًا، يعتمد ذلك على نظامك الغذائي.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/it depends on your diet.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+   
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "If you have a balanced diet.",
+      "arabic": "إذا كان لديك نظام غذائي متوازن",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/If you have a balanced diet.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "you probably don’t need to take supplements",
+      "arabic": "من المحتمل أنك لا تحتاج لتناول المكملات",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/you probably don’t need to take supplements.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "You can get all the vitamins that you need from the food you eat.",
+      "arabic": "يمكنك الحصول على كل الفيتامينات التي تحتاجها من الطعام الذي تأكله.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/You can get all the vitamins that you need from the food you eat.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I see",
+      "arabic": "أنا أفهم",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I see.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+   
+   {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "And what does a balanced diet include?",
+      "arabic": "وماذا يشمل النظام الغذائي المتوازن؟",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/And what does a balanced diet include.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "That’s a good question.",
+      "arabic": "هذا سؤال جيد.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/That’s a good question.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+   {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Of course, it includes fruits and vegetables.",
+      "arabic": "بالطبع، يشمل الفواكه والخضروات.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Of course, it includes fruits and vegetables.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "What else?",
+      "arabic": "ماذا بعد؟",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/What else.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Well!",
+      "arabic": "حسنًا",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Well.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "it also includes foods like whole-grain  cereals and oily  fish.",
+      "arabic": "وهي تشمل أيضًا أطعمة مثل الحبوب الكاملة والأسماك الدهنية.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/it also includes foods like whole-grain  cereals and oily  fish.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }, 
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "like tuna or salmon.",
+      "arabic": "مثل التونة أو السلمون.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/like tuna or salmon.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+       
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I see.",
+      "arabic": "أنا أفهم.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I see 2.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "What about supplements?",
+      "arabic": "ماذا عن المكملات؟",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/What about supplements.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Do you take any supplements, Tran?",
+      "arabic": "هل تتناول أي مكملات، تران؟",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Do you take any supplements, Tran.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "No, I don’t.",
+      "arabic": "لا، لا أفعل.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/No, I don’t.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "But I always eat a lot of fruits and vegetables.",
+      "arabic": "لكنني دائمًا آكل الكثير من الفواكه والخضروات.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/But I always eat a lot of fruits and vegetables.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "and I have oily fish two or three times a week.",
+      "arabic": "وأنا أتناول الأسماك الدهنية مرتين أو ثلاث مرات في الأسبوع.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/and I have oily fish two or three times a week.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I also never eat junk food!",
+      "arabic": "أنا أيضاً لا آكل الوجبات السريعة أبداً!",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I also never eat junk food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Wow!",
+      "arabic": "واو",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/wow.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "do you exercise, too?",
+      "arabic": "هل تمارس التمارين أيضاً؟",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/do you exercise, too.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Yes",
+      "arabic": "نعم",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/yes.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I exercise every day.",
+      "arabic": "I exercise every day.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I exercise every day.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "How about you, Gina?",
+      "arabic": "ماذا عنكِ، جينا؟",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/How about you, Gina.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I exercise twice a week, but I don’t have a very balanced diet.",
+      "arabic": "أنا أمارس الرياضة مرتين في الأسبوع، لكني لا أتناول طعامًا متوازنًا جدًا.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I exercise twice a week, but I don’t have a very balanced diet.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "but I don’t have a very balanced diet.",
+      "arabic": "لكن نظامي الغذائي ليس متوازنًا جدًا.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/but I don’t have a very balanced diet.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+   
+        
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I have vegetables about once a week.",
+      "arabic": "أتناول الخضروات حوالي مرة في الأسبوع.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I have vegetables about once a week.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+  
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I take vitamins every day, but I should probably start eating better.",
+      "arabic": "أنا أتناول الفيتامينات كل يوم، لكن من المحتمل أنني يجب أن أبدأ في تناول طعام أفضل.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I take vitamins every day, but I should probably start eating better.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I take vitamins every day.",
+      "arabic": "أخذ الفيتامينات كل يوم.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I take vitamins every day.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "but I should probably start eating better.",
+      "arabic": "لكن ربما يستحسن أن أبدأ في تناول طعام أفضل.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/but I should probably start eating better.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Yes, I think that’s a good idea.",
+      "arabic": "نعم، أعتقد أن هذه فكرة جيدة.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Yes, I think that’s a good idea.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Well, I had pizza for lunch today.",
+      "arabic": "حسنًا، تناولت البيتزا على الغداء اليوم.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Well, I had pizza for lunch today.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I can start eating a balanced diet tomorrow.",
+      "arabic": "يمكنني أن أبدأ في تناول نظام غذائي متوازن غدًا.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/I can start eating a balanced diet tomorrow.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "OK",
+      "arabic": "أوكي",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/ok.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Do a lot of people take vitamin supplements?",
+      "arabic": "هل كثير من الناس يتناولون مكملات الفيتامينات؟",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Do a lot of people take vitamin supplements.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Yes, they do.",
+      "arabic": "نعم، يفعلون.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Yes, they do.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "People take more supplements now than they did in the past.",
+      "arabic": "الناس يتناولون مكملات أكثر الآن مقارنة بالماضي.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/People take more supplements now than they did in the past.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "and the number grows every year.",
+      "arabic": "والعدد ينمو كل سنة.؟",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/and the number grows every year.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+      {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Right now, about 70 percent of Americans take some kind of supplement.",
+      "arabic": "الآن، حوالي 70٪ من الأمريكيين يتناولون نوعًا ما من المكملات.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Right now, about 70 percent of Americans take some kind of supplement.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Right now",
+      "arabic": "الآن",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Right now.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "about 70 percent of Americans take some kind of supplement.",
+      "arabic": "حوالي ٧٠٪ من الأمريكيين يتناولون نوعًا ما من المكملات.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/about 70 percent of Americans take some kind of supplement.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+   
+   {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Manufacturers  in the United States produce 30 to 40 billion dollars’ worth of supplements every year.",
+      "arabic": "يقوم المصنعون في الولايات المتحدة بإنتاج مكملات بقيمة تتراوح بين 30 إلى 40 مليار دولار كل سنة.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Manufacturers  in the United States produce 30 to 40 billion dollars’ worth of supplements every year.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Wow, that’s a lot.",
+      "arabic": "يواو، هذا كثير.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Wow, that’s a lot.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Why do you think so many people take vitamin pills?",
+      "arabic": "لماذا تعتقد أن الكثير من الناس يتناولون حبوب الفيتامين؟",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Why do you think so many people take vitamin pills.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Well",
+      "arabic": "يمكنك الحصول على كل الفيتامينات التي تحتاجها من الطعام الذي تأكله.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Well.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Well, one reason is that people want to have control of their health.",
+      "arabic": "حسنًا، أحد الأسباب هو أن الناس يريدون التحكم في صحتهم.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Well, one reason is that people want to have control of their health.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Taking supplements makes people feel like they’re doing something good for their health, even if they don’t always eat healthy foods",
+      "arabic": "تناول المكملات يشعر الناس وكأنهم يفعلون شيئًا جيدًا لصحتهم، حتى لو لم يأكلوا دائمًا أطعمة صحية.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/Taking supplements makes people feel like they’re doing something good for their health, even if they don’t always eat healthy foods.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Tran:",
+      "keyWord": "",
+      "definition": "",
+      "english": "even if they don’t always eat healthy foods.",
+      "arabic": "حتى لو لم يأكلوا دائمًا أطعمة صحية.",
+      "refer_to": "Pages 107 - 110",
+      "back_to": "",
+      "audio": "assets/audio/even if they don’t always eat healthy foods.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+  ]
+}
